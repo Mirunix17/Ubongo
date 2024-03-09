@@ -1,4 +1,7 @@
-# Nu primesc notă pentru că nu am pus titlu și descriere
+# Ubongo
+
+### Descriere
+Un joc de puzzle, in care trebuie sa acoperi complet o placa de diverse dimensiuni, folosind forme colorate. Din totalul de forme, in functie de numarul pe care il obtii dand cu zarul, vei primi doar cateva dintre ele. Jocul va avea 2 etape de dificultate, fiecare continand mai multe nivele.
 
 ### Important!
 Aveți voie cu cod generat de modele de limbaj la care nu ați contribuit semnificativ doar în folder-ul `generated`.
